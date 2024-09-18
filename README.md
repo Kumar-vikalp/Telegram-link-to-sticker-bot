@@ -43,11 +43,12 @@ A simple Telegram bot that allows users to convert images from links into sticke
    Step 2: Copy or Save Your Bot Token somewhere and just replace it in bot.py
    ```
 ## Usage
-Run the bot:
+> Run the bot:
 `python bot.py`
 if on vps or ubantu check ur python version `python --version` and if its 3 then `python3 bot.py` like python(version) bot.py
 
-Open Telegram and search for your bot.
+
+### Open Telegram and search for your bot.
 
 Send the /start command to initiate the bot.
 
