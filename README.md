@@ -22,11 +22,11 @@ A simple Telegram bot that allows users to convert images from links into sticke
    git clone https://github.com/yourusername/telegram-sticker-bot.git
    cd telegram-sticker-bot
 2. **Install the required libraries**
-   either u can do that
+   > either u can do that
    `
    pip install python-telegram-bot Pillow requests
    `
-   or you can install it by
+   > or you can install it by
    `pip install -r requirements.txt`
 3. **Set your bot token:**
    ```bash
